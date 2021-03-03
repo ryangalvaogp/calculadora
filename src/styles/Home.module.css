@@ -1,0 +1,8 @@
+.container{
+    left: 12px;
+    background: #311b1b;
+    font-size: 23px;
+    width: 200%;
+    max-width: 320px;
+    border-radius: 12px;
+}
